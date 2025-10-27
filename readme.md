@@ -1,0 +1,1 @@
+A intenção desse repositório será de criar uma escalonador de tarefas para o dia a dia, inspirado pelos algoritimos de sistemas operacionais, a ideia é que o programa será capaz de organizar as suas tarefas diarias de acordo com algoritimos de inteligência artificial. 
